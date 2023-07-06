@@ -15,12 +15,12 @@ Installers:
   InstallerType: burn
   Scope: machine
   InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.70.1/PowerToysSetup-0.70.1-arm64.exe
-  InstallerSha256: 5155EA186230876EF1DA6F49DC33E40D552B2BFFA0E03F66FBA71FBEB8713594
+  InstallerSha256: 9F267B7AD91E5FAE86ED5050A08A24756CE3EA9875FFCFDE195F1F4F299F0933
 - Architecture: arm64
   InstallerType: burn
   Scope: user
   InstallerUrl: https://github.com/microsoft/PowerToys/releases/download/v0.70.1/PowerToysUserSetup-0.70.1-arm64.exe
-  InstallerSha256: 9F267B7AD91E5FAE86ED5050A08A24756CE3EA9875FFCFDE195F1F4F299F0933
+  InstallerSha256: 5155EA186230876EF1DA6F49DC33E40D552B2BFFA0E03F66FBA71FBEB8713594
 - Architecture: x64
   InstallerType: burn
   Scope: machine
